@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.currency.rate</groupId>
-	<artifactId>currency_exchange_rate</artifactId>
+	<artifactId>currency-exchange-rate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>currency_exchange_rate</name>
+	<name>currency-exchange-rate</name>
 	<description>currency Exchange Project</description>
 	<properties>
 		<java.version>1.8</java.version>
